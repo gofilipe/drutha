@@ -1,0 +1,7 @@
+name: DruThA
+type: theme
+description: Drupal Theme Automation
+core: 8.x
+libraries:
+  - drutha/global-styling
+base theme: stable
